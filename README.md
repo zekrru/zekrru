@@ -1,6 +1,6 @@
 # 🗿 zekrru
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Just a normal guy learning Python.`**
 
 I'm a beginner in cybersecurity and Python. 
 
